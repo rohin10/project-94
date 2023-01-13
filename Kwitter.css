@@ -1,0 +1,32 @@
+
+Body {  
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-image: linear-gradient(to right top, #11d3c6, #b3f216, #f60cbb, #0a73aa, #c2562b);
+  }  
+  button {   
+         background-color: #4CAF50;  
+          
+         width: 100%;  
+          color: purple;   
+          padding: 15px;   
+          margin: 10px 0px;   
+          border: none;   
+          cursor: pointer;   
+           }   
+   form {   
+          border: 3px solid #f1f1f1;   
+      }   
+      input[type=text], input[type=password] {   
+          width: 100%;   
+          margin: 8px 0;  
+          padding: 12px 20px;   
+          display: inline-block;   
+          border: 2px solid greenyellow;   
+           
+      }  
+   
+       
+   .container {   
+          padding: 25px;   
+          background-color: lightblue;  
+      }  
